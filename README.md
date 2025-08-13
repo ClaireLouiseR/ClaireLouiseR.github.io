@@ -1,23 +1,14 @@
-# 📊 Data Science Portfolio  
+# Claire Russell — Data Science Portfolio
 
-Welcome to my Data Science portfolio! This repository highlights projects that showcase my skills in data analysis, machine learning, visualisation, and statistical modelling. Each project includes code, documentation, and key insights.  
+This repository contains the source for my data science portfolio, built with [MkDocs](https://www.mkdocs.org/) and the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
 
-### 🎓 Education  
-Master of Applied Data Analytics  
-The Australian National University  
-📅 2021 – 2024  
-📚 Specialisation in Computer Science  
-🔍 Focus: Machine learning, statistical modelling, data for research  
+## View the live site
+[https://clairelouiser.github.io](https://clairelouiser.github.io)
 
-Bachelor of International and Global Studies  
-The University of Sydney  
-📅 2013 – 2017  
-🌏 Major: Government and International Relations  
+## Local development
+To preview locally:
 
-### 💼 Work Experience  
-🔍 Data Analyst / Senior Data Analyst  
-Department of Foreign Affairs and Trade (DFAT), Australia  
-📅 2023 – Present  
-🌐 Canberra, ACT  
+```bash
+conda activate ds_env
+mkdocs serve
 
-### 🧠 Projects  
