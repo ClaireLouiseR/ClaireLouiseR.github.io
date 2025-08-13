@@ -1,0 +1,26 @@
+site_name: Claire Russell
+site_url: https://clairelouiser.github.io
+
+theme:
+  name: material
+  palette:
+    - scheme: default      # light mode
+      primary: green
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate        # dark mode
+      primary: green
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+plugins:
+  - search
+  - mkdocs-jupyter
+
+nav:
+  - Home: index.md
+
