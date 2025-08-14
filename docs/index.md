@@ -16,3 +16,18 @@ This site shares selected projects and notebooks while I build out new work.
 
 > I’m currently repurposing a few uni projects as portfolio pieces—more coming soon.
 
+## Projects
+
+<div class="project-grid">
+
+  <a class="project-card" href="projects/networks/">
+    <img class="project-thumb" src="projects/networks/assets/top_25_online_search_interest_flows.png" alt="Indo-Pacific networks">
+    <h3>Indo-Pacific Diplomacy (Networks)</h3>
+    <p>Network science on Lowy indices to surface brokerage opportunities.</p>
+  </a>
+
+  <!-- Duplicate this <a class="project-card">…</a> block for more projects.
+       Just change href, src, title, and one-liner. -->
+
+</div>
+

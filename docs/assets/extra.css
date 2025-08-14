@@ -1,0 +1,46 @@
+/* A compact, centred grid: 220–280px tiles, 3–4 per row on desktop */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 280px));
+  gap: 1rem;
+  justify-content: center;      /* centre leftover space */
+  margin-block: 1rem 2rem;
+}
+
+/* Clickable card */
+.project-card {
+  display: block;
+  width: 100%;
+  max-width: 280px;              /* hard cap so a single tile stays small */
+  text-decoration: none;
+  background: var(--md-default-bg-color, #fff);
+  border-radius: 12px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.08);
+  overflow: hidden;
+  transition: transform 120ms ease, box-shadow 120ms ease;
+}
+.project-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,.12);
+}
+
+/* Square thumbnail */
+.project-thumb {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+/* Tidy text */
+.project-card h3 {
+  margin: .6rem .75rem .25rem;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+.project-card p {
+  margin: 0 .75rem .8rem;
+  font-size: .9rem;
+  color: var(--md-typeset-color, #444);
+}
+
