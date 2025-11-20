@@ -21,7 +21,7 @@ This site shares selected projects and notebooks while I build out new work.
 <div class="project-grid">
 
   <a class="project-card" href="projects/networks/">
-    <img class="project-thumb" src="projects/networks/assets/top_25_online_search_interest_flows.png" alt="Indo-Pacific networks">
+    <img class="project-thumb" src="projects/networks/assets/ausposts.png" alt="Indo-Pacific networks">
     <h3>Indo-Pacific Diplomacy (Networks)</h3>
     <p>Network science on Lowy indices to surface brokerage opportunities.</p>
   </a>
