@@ -366,6 +366,19 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -377,6 +390,70 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      Summary
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data" class="md-nav__link">
+    <span class="md-ellipsis">
+      Data
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#methods" class="md-nav__link">
+    <span class="md-ellipsis">
+      Methods
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#selected-results" class="md-nav__link">
+    <span class="md-ellipsis">
+      Selected results
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#selected-visuals" class="md-nav__link">
+    <span class="md-ellipsis">
+      Selected Visuals
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -441,6 +518,59 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      Summary
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data" class="md-nav__link">
+    <span class="md-ellipsis">
+      Data
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#methods" class="md-nav__link">
+    <span class="md-ellipsis">
+      Methods
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#selected-results" class="md-nav__link">
+    <span class="md-ellipsis">
+      Selected results
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#selected-visuals" class="md-nav__link">
+    <span class="md-ellipsis">
+      Selected Visuals
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -456,14 +586,46 @@
 
 
 <h1 id="leveraging-network-science-to-enhance-australias-indo-pacific-diplomacy">Leveraging Network Science to Enhance Australia’s Indo-Pacific Diplomacy</h1>
-<p><strong>Summary</strong><br />
-I analysed diplomatic and influence networks to identify where Australia can most effectively deepen ties and broker regional influence across the Indo-Pacific.</p>
-<p><a class="md-button" href="analysis/">Open the notebook →</a></p>
-<p><strong>Data</strong><br />
-- <strong>Lowy Institute Global Diplomacy Index (2016–2023):</strong> posts across 66 countries, used to build a weighted, directed global diplomacy graph.
-- <strong>Lowy Institute Asia Power Index (API):</strong> constructed three regional “network power” graphs from API attributes — <strong>online search interest (OSI)</strong>, <strong>foreign capital investment (FCI)</strong> and <strong>diplomatic dialogues (DD)</strong>.
-<strong>Methods</strong><br />
-Weighted, directed graphs; metrics included <strong>betweenness centrality</strong> (on inverted edge weights), <strong>PageRank</strong>, <strong>HITS (authorities/hubs)</strong>, <strong>weighted in/out degree</strong>, <strong>clustering coefficient</strong>, and <strong>Louvain community detection</strong> with <strong>modularity</strong> and <strong>Adjusted Rand Index (ARI)</strong> to compare community structures across networks. </p>
+<p><a class="md-button" href="analysis/">Open the notebook →</a>
+<a class="md-button" href="assets/NetworkScience_Report.pdf" target="_blank">Download the report (PDF) →</a></p>
+<h2 id="summary">Summary</h2>
+<p>I analysed diplomatic and influence networks to identify where Australia can most effectively deepen ties and broker regional influence across the Indo-Pacific.</p>
+<h2 id="data">Data</h2>
+<ul>
+<li><strong>Lowy Global Diplomacy Index (2016–2023):</strong> counts of overseas posts across 66 countries to build a weighted, directed diplomacy graph.  </li>
+<li><strong>Lowy Asia Power Index:</strong> three “network power” graphs from API attributes — <strong>online search interest (OSI)</strong>, <strong>foreign capital investment (FCI)</strong>, and <strong>diplomatic dialogues (DD)</strong>.</li>
+</ul>
+<h2 id="methods">Methods</h2>
+<ul>
+<li>Weighted, directed graphs (plus one undirected graph for diplomatic dialogues)  </li>
+<li>Centralities: <strong>betweenness</strong>, <strong>PageRank</strong>, <strong>HITS (hubs/authorities)</strong>  </li>
+<li><strong>Weighted in/out degree</strong>, <strong>clustering coefficient</strong>  </li>
+<li><strong>Louvain</strong> communities; compared structures with <strong>Adjusted Rand Index (ARI)</strong></li>
+</ul>
+<h2 id="selected-results">Selected results</h2>
+<ul>
+<li>
+<p><strong>Diplomatic footprint:</strong> Australia has expanded posts in <strong>Oceania</strong>, but remains mid-pack for total posts relative to peers with similar GDP. Diversifying posts beyond Oceania would broaden reach.</p>
+</li>
+<li>
+<p><strong>Brokerage via diplomatic dialogues (DD):</strong> High <strong>PageRank</strong> (and brokerage metrics) indicate Australia is well placed to <strong>convene</strong> and broker across Indo-Pacific diplomatic fora. Deepen ties with <strong>Indonesia, Japan, India</strong> while balancing US alignment.</p>
+</li>
+<li>
+<p><strong>Attention flows (OSI):</strong> Australia is a <strong>net receiver</strong> of attention (≈ <strong>6th</strong> by weighted in-degree). Cultural exchange and business initiatives with <strong>India</strong> and <strong>Japan</strong> are likely to lift visibility.</p>
+</li>
+<li>
+<p><strong>Investment flows (FCI):</strong> <strong>China</strong> dominates as an investment hub; Australia’s hub score is lower. Emphasise <strong>quality over volume</strong> in sectors of advantage (e.g., critical minerals, renewables, education), leveraging governance and reliability.</p>
+</li>
+<li>
+<p><strong>Community structure:</strong> Stable regional ties to <strong>New Zealand</strong>; economic links cluster with <strong>Southeast Asia</strong>. <strong>OSI</strong> and <strong>DD</strong> communities overlap moderately; <strong>FCI</strong> forms distinct blocs → different policy levers by network.</p>
+</li>
+<li>
+<p><strong>Actionable next steps:</strong> Target brokerage opportunities in triads (e.g., <strong>Japan–India–Australia</strong>, ASEAN pairings), strengthen weak ties identified by low edge weights, and track changes <strong>2016–2023</strong> to sequence postings and dialogues.</p>
+</li>
+</ul>
+<h2 id="selected-visuals">Selected Visuals</h2>
+<p><img alt="Top OSI flows" src="assets/top_25_online_search_interest_flows.png" /></p>
+<p><strong>Full repo:</strong> https://github.com/ClaireLouiseR/COMP8880</p>
 
 
 
