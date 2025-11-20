@@ -1,0 +1,231 @@
+name,id,region,subregion,regionColour,subregionColour
+Aruba,AB,Americas,Caribbean,#194ce2,#4b76e2
+Andorra,AD,Europe,Southern Europe,#e5b926,#ffe599
+United Arab Emirates,AE,Asia,Western Asia,#196c3d,#bbe4ac
+Afghanistan,AF,Asia,Southern Asia,#196c3d,#5d9c41
+Antigua and Barbuda,AG,Americas,Caribbean,#194ce2,#4b76e2
+Anguilla,AI,Americas,Caribbean,#194ce2,#4b76e2
+Abkhazia,AK,Asia,Western Asia,#196c3d,#bbe4ac
+Albania,AL,Europe,Southern Europe,#e5b926,#ffe599
+Armenia,AM,Asia,Western Asia,#196c3d,#bbe4ac
+Dutch Antilles,AN,Americas,Caribbean,#194ce2,#4b76e2
+Angola,AO,Africa,Middle Africa,#3e05ee,#7733b3
+Antarctica,AQ,Antarctica,Antarctica,#444444,#444444
+Argentina,AR,Americas,South America,#194ce2,#99e0e7
+American Samoa,AS,Oceania,Polynesia,#dc0000,#f78181
+Austria,AT,Europe,Western Europe,#e5b926,#d2a740
+Australia,AU,Oceania,Australia and New Zealand,#dc0000,#cc0000
+Azerbaijan,AZ,Asia,Western Asia,#196c3d,#bbe4ac
+Bangladesh,BA,Asia,Southern Asia,#196c3d,#5d9c41
+Barbados,BB,Americas,Caribbean,#194ce2,#4b76e2
+Belgium,BE,Europe,Western Europe,#e5b926,#d2a740
+Burkina Faso,BF,Africa,Western Africa,#3e05ee,#9c73d6
+Bulgaria,BG,Europe,Eastern Europe,#e5b926,#fbe426
+Bahrain,BH,Asia,Western Asia,#196c3d,#bbe4ac
+Burundi,BI,Africa,Eastern Africa,#3e05ee,#ab18e2
+Bosnia and Herzegovina,BIH,Europe,Southern Europe,#e5b926,#ffe599
+Benin,BJ,Africa,Western Africa,#3e05ee,#9c73d6
+Saint Barthelemy,BL,Americas,Caribbean,#194ce2,#4b76e2
+Bermuda,BM,Americas,Northern America,#194ce2,#3392b3
+Bolivia,BO,Americas,South America,#194ce2,#99e0e7
+Brunei,BR,Asia,Southeastern Asia,#196c3d,#b6e24b
+Brazil,BRA,Americas,South America,#194ce2,#99e0e7
+Bahamas,BS,Americas,Caribbean,#194ce2,#4b76e2
+Bhutan,BT,Asia,Southern Asia,#196c3d,#5d9c41
+Botswana,BW,Africa,Southern Africa,#3e05ee,#d995de
+Belarus,BY,Europe,Eastern Europe,#e5b926,#fbe426
+Belize,BZ,Americas,Central America,#194ce2,#7bc6e0
+Canada,CA,Americas,Northern America,#194ce2,#3392b3
+Cambodia,CB,Asia,Southeastern Asia,#196c3d,#b6e24b
+Curacao,CC,Americas,Caribbean,#194ce2,#4b76e2
+DR Congo,CD,Africa,Middle Africa,#3e05ee,#7733b3
+Central African Republic,CF,Africa,Middle Africa,#3e05ee,#7733b3
+Congo,CG,Africa,Middle Africa,#3e05ee,#7733b3
+Switzerland,CH,Europe,Western Europe,#e5b926,#d2a740
+Cote d'Ivoire,CI,Africa,Western Africa,#3e05ee,#9c73d6
+Cook Islands,CK,Oceania,Polynesia,#dc0000,#f78181
+Chile,CL,Americas,South America,#194ce2,#99e0e7
+Cameroon,CM,Africa,Middle Africa,#3e05ee,#7733b3
+China,CN,Asia,Eastern Asia,#196c3d,#7b965e
+Colombia,CO,Americas,South America,#194ce2,#99e0e7
+Costa Rica,CR,Americas,Central America,#194ce2,#7bc6e0
+Cuba,CU,Americas,Caribbean,#194ce2,#4b76e2
+Cabo Verde,CV,Africa,Western Africa,#3e05ee,#9c73d6
+Cyprus,CY,Asia,Western Asia,#196c3d,#bbe4ac
+Czech Republic,CZ,Europe,Eastern Europe,#e5b926,#fbe426
+Germany,DE,Europe,Western Europe,#e5b926,#d2a740
+Djibouti,DJ,Africa,Eastern Africa,#3e05ee,#ab18e2
+Denmark,DK,Europe,Northern Europe,#e5b926,#f6b26b
+Dominica,DM,Americas,Caribbean,#194ce2,#4b76e2
+Dominican Republic,DO,Americas,Caribbean,#194ce2,#4b76e2
+Algeria,DZ,Africa,Northern Africa,#3e05ee,#ae99e7
+Ecuador,EC,Americas,South America,#194ce2,#99e0e7
+Estonia,EE,Europe,Northern Europe,#e5b926,#f6b26b
+Egypt,EG,Africa,Northern Africa,#3e05ee,#ae99e7
+Eritrea,ER,Africa,Eastern Africa,#3e05ee,#ab18e2
+Spain,ES,Europe,Southern Europe,#e5b926,#ffe599
+Ethiopia,ET,Africa,Eastern Africa,#3e05ee,#ab18e2
+European Union,EU,Europe,European Union,#e5b926,#ce7e00
+French Guiana,FG,Americas,South America,#194ce2,#99e0e7
+Finland,FI,Europe,Northern Europe,#e5b926,#f6b26b
+Fiji,FJ,Oceania,Melanesia,#dc0000,#e93f7b
+Falkland Islands (Malvinas),FK,Americas,South America,#194ce2,#99e0e7
+"Micronesia, Federated States of",FM,Oceania,Micronesia,#dc0000,#9b1f1f
+Faroe Islands,FO,Europe,Northern Europe,#e5b926,#f6b26b
+France,FR,Europe,Western Europe,#e5b926,#d2a740
+Gabon,GA,Africa,Middle Africa,#3e05ee,#7733b3
+Grenada,GD,Americas,Caribbean,#194ce2,#4b76e2
+Georgia,GE,Asia,Western Asia,#196c3d,#bbe4ac
+Ghana,GH,Africa,Western Africa,#3e05ee,#9c73d6
+Gibraltar,GI,Europe,Southern Europe,#e5b926,#ffe599
+Greenland,GL,Americas,Northern America,#194ce2,#3392b3
+Gambia,GM,Africa,Western Africa,#3e05ee,#9c73d6
+Guinea,GN,Africa,Western Africa,#3e05ee,#9c73d6
+Equatorial Guinea,GQ,Africa,Middle Africa,#3e05ee,#7733b3
+Greece,GR,Europe,Southern Europe,#e5b926,#ffe599
+Guatemala,GT,Americas,Central America,#194ce2,#7bc6e0
+Guam,GU,Oceania,Micronesia,#dc0000,#9b1f1f
+Guinea-Bissau,GW,Africa,Western Africa,#3e05ee,#9c73d6
+Guyana,GY,Americas,South America,#194ce2,#99e0e7
+Honduras,HN,Americas,Central America,#194ce2,#7bc6e0
+Croatia,HR,Europe,Southern Europe,#e5b926,#ffe599
+Haiti,HT,Americas,Caribbean,#194ce2,#4b76e2
+Hungary,HU,Europe,Eastern Europe,#e5b926,#fbe426
+Indonesia,ID,Asia,Southeastern Asia,#196c3d,#b6e24b
+Ireland,IE,Europe,Northern Europe,#e5b926,#f6b26b
+Israel,IL,Asia,Western Asia,#196c3d,#bbe4ac
+India,IN,Asia,Southern Asia,#196c3d,#5d9c41
+Iraq,IQ,Asia,Western Asia,#196c3d,#bbe4ac
+Iran,IR,Asia,Southern Asia,#196c3d,#5d9c41
+Iceland,IS,Europe,Northern Europe,#e5b926,#f6b26b
+Italy,IT,Europe,Southern Europe,#e5b926,#ffe599
+Jerusalem,JE,Asia,Western Asia,#196c3d,#bbe4ac
+Jamaica,JM,Americas,Caribbean,#194ce2,#4b76e2
+Jordan,JO,Asia,Western Asia,#196c3d,#bbe4ac
+Japan,JP,Asia,Eastern Asia,#196c3d,#7b965e
+Kenya,KE,Africa,Eastern Africa,#3e05ee,#ab18e2
+Kyrgyzstan,KG,Asia,Central Asia,#196c3d,#73d694
+Kiribati,KI,Oceania,Micronesia,#dc0000,#9b1f1f
+Comoros,KM,Africa,Eastern Africa,#3e05ee,#ab18e2
+Saint Kitts and Nevis,KN,Americas,Caribbean,#194ce2,#4b76e2
+Kuwait,KW,Asia,Western Asia,#196c3d,#bbe4ac
+Cayman Islands,KY,Americas,Caribbean,#194ce2,#4b76e2
+Kazakhstan,KZ,Asia,Central Asia,#196c3d,#73d694
+Laos,LA,Asia,Southeastern Asia,#196c3d,#b6e24b
+Lebanon,LB,Asia,Western Asia,#196c3d,#bbe4ac
+Saint Lucia,LC,Americas,Caribbean,#194ce2,#4b76e2
+Liechtenstein,LI,Europe,Western Europe,#e5b926,#d2a740
+Liberia,LR,Africa,Western Africa,#3e05ee,#9c73d6
+Lesotho,LS,Africa,Southern Africa,#3e05ee,#d995de
+Lithuania,LT,Europe,Northern Europe,#e5b926,#f6b26b
+Luxembourg,LU,Europe,Western Europe,#e5b926,#d2a740
+Latvia,LV,Europe,Northern Europe,#e5b926,#f6b26b
+Libya,LY,Africa,Northern Africa,#3e05ee,#ae99e7
+Malaysia,MA,Asia,Southeastern Asia,#196c3d,#b6e24b
+Morocco,MAR,Africa,Northern Africa,#3e05ee,#ae99e7
+Monaco,MC,Europe,Western Europe,#e5b926,#d2a740
+Moldova,MD,Europe,Eastern Europe,#e5b926,#fbe426
+Montenegro,ME,Europe,Southern Europe,#e5b926,#ffe599
+Madagascar,MG,Africa,Eastern Africa,#3e05ee,#ab18e2
+Marshall Islands,MH,Oceania,Micronesia,#dc0000,#9b1f1f
+North Macedonia,MK,Europe,Southern Europe,#e5b926,#ffe599
+Mali,ML,Africa,Western Africa,#3e05ee,#9c73d6
+Mongolia,MO,Asia,Eastern Asia,#196c3d,#7b965e
+Northern Mariana Islands,MP,Oceania,Micronesia,#dc0000,#9b1f1f
+Mauritania,MR,Africa,Western Africa,#3e05ee,#9c73d6
+Montserrat,MS,Americas,Caribbean,#194ce2,#4b76e2
+Malta,MT,Europe,Southern Europe,#e5b926,#ffe599
+Mauritius,MU,Africa,Eastern Africa,#3e05ee,#ab18e2
+Maldives,MV,Asia,Southern Asia,#196c3d,#5d9c41
+Malawi,MW,Africa,Eastern Africa,#3e05ee,#ab18e2
+Mexico,MX,Americas,Central America,#194ce2,#7bc6e0
+Myanmar,MY,Asia,Southeastern Asia,#196c3d,#b6e24b
+Mozambique,MZ,Africa,Eastern Africa,#3e05ee,#ab18e2
+Namibia,NA,Africa,Southern Africa,#3e05ee,#d995de
+New Caledonia,NC,Oceania,Melanesia,#dc0000,#e93f7b
+Northern Cyprus,NCY,Asia,Western Asia,#196c3d,#bbe4ac
+Niger,NE,Africa,Western Africa,#3e05ee,#9c73d6
+Nigeria,NG,Africa,Western Africa,#3e05ee,#9c73d6
+Nicaragua,NI,Americas,Central America,#194ce2,#7bc6e0
+North Korea,NK,Asia,Eastern Asia,#196c3d,#7b965e
+Netherlands,NL,Europe,Western Europe,#e5b926,#d2a740
+Norway,NO,Europe,Northern Europe,#e5b926,#f6b26b
+Nepal,NP,Asia,Southern Asia,#196c3d,#5d9c41
+Nauru,NR,Oceania,Micronesia,#dc0000,#9b1f1f
+Niue,NU,Oceania,Polynesia,#dc0000,#f78181
+New Zealand,NZ,Oceania,Australia and New Zealand,#dc0000,#cc0000
+Oman,OM,Asia,Western Asia,#196c3d,#bbe4ac
+South Ossetia,OS,Asia,Western Asia,#196c3d,#bbe4ac
+Panama,PA,Americas,Central America,#194ce2,#7bc6e0
+Peru,PE,Americas,South America,#194ce2,#99e0e7
+French Polynesia,PF,Oceania,Polynesia,#dc0000,#f78181
+Papua New Guinea,PG,Oceania,Melanesia,#dc0000,#e93f7b
+Philippines,PH,Asia,Southeastern Asia,#196c3d,#b6e24b
+Pakistan,PK,Asia,Southern Asia,#196c3d,#5d9c41
+Poland,PL,Europe,Eastern Europe,#e5b926,#fbe426
+Puerto Rico (US territory),PR,Americas,Caribbean,#194ce2,#4b76e2
+State of Palestine,PS,Asia,Western Asia,#196c3d,#bbe4ac
+Portugal,PT,Europe,Southern Europe,#e5b926,#ffe599
+Palau,PW,Oceania,Micronesia,#dc0000,#9b1f1f
+Paraguay,PY,Americas,South America,#194ce2,#99e0e7
+Qatar,QA,Asia,Western Asia,#196c3d,#bbe4ac
+Romania,RO,Europe,Eastern Europe,#e5b926,#fbe426
+Serbia,RS,Europe,Southern Europe,#e5b926,#ffe599
+Russia,RU,Europe,Eastern Europe,#e5b926,#fbe426
+Rwanda,RW,Africa,Eastern Africa,#3e05ee,#ab18e2
+Saudi Arabia,SA,Asia,Western Asia,#196c3d,#bbe4ac
+Solomon Islands,SB,Oceania,Melanesia,#dc0000,#e93f7b
+Seychelles,SC,Africa,Eastern Africa,#3e05ee,#ab18e2
+Sudan,SD,Africa,Northern Africa,#3e05ee,#ae99e7
+Sweden,SE,Europe,Northern Europe,#e5b926,#f6b26b
+Singapore,SG,Asia,Southeastern Asia,#196c3d,#b6e24b
+Slovenia,SI,Europe,Southern Europe,#e5b926,#ffe599
+South Korea,SK,Asia,Eastern Asia,#196c3d,#7b965e
+Sri Lanka,SL,Asia,Southern Asia,#196c3d,#5d9c41
+Sierra Leone,SLE,Africa,Western Africa,#3e05ee,#9c73d6
+San Marino,SM,Europe,Southern Europe,#e5b926,#ffe599
+Senegal,SN,Africa,Western Africa,#3e05ee,#9c73d6
+Somalia,SO,Africa,Eastern Africa,#3e05ee,#ab18e2
+Somaliland,SOM,Africa,Eastern Africa,#3e05ee,#ab18e2
+Suriname,SR,Americas,South America,#194ce2,#99e0e7
+South Sudan,SS,Africa,Eastern Africa,#3e05ee,#ab18e2
+Sao Tome and Principe,ST,Africa,Middle Africa,#3e05ee,#7733b3
+El Salvador,SV,Americas,Central America,#194ce2,#7bc6e0
+Slovakia,SVK,Europe,Eastern Europe,#e5b926,#fbe426
+Sint Maarten,SX,Americas,Caribbean,#194ce2,#4b76e2
+Syrian Arab Republic,SY,Asia,Western Asia,#196c3d,#bbe4ac
+Eswatini,SZ,Africa,Southern Africa,#3e05ee,#d995de
+Turks and Caicos Islands,TC,Americas,Caribbean,#194ce2,#4b76e2
+Chad,TD,Africa,Middle Africa,#3e05ee,#7733b3
+Togo,TG,Africa,Western Africa,#3e05ee,#9c73d6
+Thailand,TH,Asia,Southeastern Asia,#196c3d,#b6e24b
+Tajikistan,TJ,Asia,Central Asia,#196c3d,#73d694
+Tokelau,TK,Oceania,Polynesia,#dc0000,#f78181
+Timor-Leste,TL,Asia,Southeastern Asia,#196c3d,#b6e24b
+Turkmenistan,TM,Asia,Central Asia,#196c3d,#73d694
+Tunisia,TN,Africa,Northern Africa,#3e05ee,#ae99e7
+Tonga,TO,Oceania,Polynesia,#dc0000,#f78181
+Turkey,TR,Asia,Western Asia,#196c3d,#bbe4ac
+Trinidad and Tobago,TT,Americas,Caribbean,#194ce2,#4b76e2
+Tuvalu,TV,Oceania,Polynesia,#dc0000,#f78181
+Taiwan,TW,Asia,Eastern Asia,#196c3d,#7b965e
+Tanzania,TZ,Africa,Eastern Africa,#3e05ee,#ab18e2
+Ukraine,UA,Europe,Eastern Europe,#e5b926,#fbe426
+Uganda,UG,Africa,Eastern Africa,#3e05ee,#ab18e2
+United Kingdom,UK,Europe,Northern Europe,#e5b926,#f6b26b
+United States,US,Americas,Northern America,#194ce2,#3392b3
+Uruguay,UY,Americas,South America,#194ce2,#99e0e7
+Uzbekistan,UZ,Asia,Central Asia,#196c3d,#73d694
+Holy See,VA,Europe,Southern Europe,#e5b926,#ffe599
+Saint Vincent and the Grenadines,VC,Americas,Caribbean,#194ce2,#4b76e2
+Venezuela,VE,Americas,South America,#194ce2,#99e0e7
+British Virgin Islands,VG,Americas,Caribbean,#194ce2,#4b76e2
+Vietnam,VN,Asia,Southeastern Asia,#196c3d,#b6e24b
+Vanuatu,VU,Oceania,Melanesia,#dc0000,#e93f7b
+Wallis and Futuna Islands,WF,Oceania,Polynesia,#dc0000,#f78181
+Samoa,WS,Oceania,Polynesia,#dc0000,#f78181
+Kosovo,XK,Europe,Southern Europe,#e5b926,#ffe599
+Yemen,YE,Asia,Western Asia,#196c3d,#bbe4ac
+South Africa,ZA,Africa,Southern Africa,#3e05ee,#d995de
+Zambia,ZM,Africa,Eastern Africa,#3e05ee,#ab18e2
+Zimbabwe,ZW,Africa,Eastern Africa,#3e05ee,#ab18e2
