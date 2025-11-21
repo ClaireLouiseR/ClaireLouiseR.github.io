@@ -4,18 +4,9 @@ site_url: https://clairelouiser.github.io
 theme:
   name: material
   palette:
-    - scheme: default      # light mode
+    - scheme: default
       primary: green
       accent: teal
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - scheme: slate        # dark mode
-      primary: green
-      accent: teal
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
 
 plugins:
   - search
@@ -31,7 +22,10 @@ extra_css:
 nav:
   - Home: index.md
   - Projects:
-      - Overview: projects/index.md
       - Network Analysis:
           - Overview: projects/networks/index.md
           - Notebook: projects/networks/analysis.ipynb
+      - Facial Emotion Recognition:
+          - Overview: projects/emotion-recognition/index.md
+          - Notebook: projects/emotion-recognition/analysis.ipynb
+

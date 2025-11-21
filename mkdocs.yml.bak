@@ -1,0 +1,59 @@
+  - Facial Emotion Recognition:
+      - Overview: projects/emotion-recognition/index.md
+      - Notebook: projects/emotion-recognition/analysis.ipynb   # or emotion_recognition.ipynb if you renamed
+nav:
+  - Home: index.md
+  - Projects:
+      - Overview: projects/index.md
+      - Network Analysis:
+          - Overview: projects/networks/index.md
+          - Notebook: projects/networks/analysis.ipynb
+      - Facial Emotion Recognition:
+          - Overview: projects/emotion-recognition/index.md
+          - Notebook: projects/emotion-recognition/analysis.ipynb
+site_name: Claire Russell
+site_url: https://clairelouiser.github.io
+
+theme:
+  name: material
+  palette:
+    - scheme: default      # light mode
+      primary: green
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate        # dark mode
+      primary: green
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+plugins:
+  - search
+  - mkdocs-jupyter
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+extra_css:
+  - assets/extra.css
+
+nav:
+  - Home: index.md
+  - Projects:
+      - Overview: projects/index.md
+      - Network Analysis:
+          - Overview: projects/nnav:
+  - Home: index.md
+  - Projects:
+      - Overview: projects/index.md
+      - Network Analysis:
+          - Overview: projects/networks/index.md
+          - Notebook: projects/networks/analysis.ipynb
+      - Facial Emotion Recognition:
+          - Overview: projects/emotion-recognition/index.md
+          - Notebook: projects/emotion-recognition/analysis.ipynb
+          - Notebook: projects/networks/analysis.ipynb

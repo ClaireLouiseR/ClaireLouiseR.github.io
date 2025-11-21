@@ -7,7 +7,8 @@
   </div>
 </div>
 
-I’m a Berlin-based Data Analyst with a Master of Applied Data Analytics (ANU).
+I’m a Berlin-based Data Analyst with a Master of Applied Data Analytics (ANU) specialising in computer science.
+
 This site shares selected projects and notebooks while I build out new work.
 
 - Email: clairelourussell@gmail.com
@@ -26,8 +27,10 @@ This site shares selected projects and notebooks while I build out new work.
     <p>Network science on Lowy indices to surface brokerage opportunities.</p>
   </a>
 
-  <!-- Duplicate this <a class="project-card">…</a> block for more projects.
-       Just change href, src, title, and one-liner. -->
+  <a class="project-card" href="projects/emotion-recognition/">
+    <img class="project-thumb" src="projects/emotion-recognition/assets/dataset_sample.png" alt="Facial Emotion Recognition">
+    <h3>Facial Emotion Recognition</h3>
+    <p>Facial emotion classifier trained in Colab; SVM vs NN comparison and evaluation.</p>
+  </a>
 
 </div>
-
